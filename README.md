@@ -57,52 +57,40 @@ Detailed SQL queries were written for each objective to uncover insights such as
 
 ### 🌟 Objective 1: Most Common Job Titles
 
-![Objective 1](assets/screenshots/objective1_job_titles.png)
+![Objective_1](outputs/objective_1.jpg)
 
 ### 🌟 Objective 2: Top Companies by Job Postings
 
-![Objective 2](assets/screenshots/objective2_top_companies.png)
-
+![Objective_2](outputs/objective_2.jpg)
 ### 🌟 Objective 3: Remote vs Onsite Job Count
 
-![Objective 3](assets/screenshots/objective3_remote_onsite.png)
+
+![Objective_3](outputs/objective_3.jpg)
 
 ### 🌟 Objective 4: Average Salary by Job Title
 
-![Objective 4](assets/screenshots/objective4_avg_salary_title.png)
+
+![Objective_4](outputs/objective_4.jpg)
 
 ### 🌟 Objective 5: Top Companies by Average Yearly Salary
 
-![Objective 5](assets/screenshots/objective5_top_companies_salary.png)
+
+![Objective_5](outputs/objective_5.jpg)
 
 ### 🌟 Objective 6: Average Salary by Country
 
-![Objective 6](assets/screenshots/objective6_avg_salary_country.png)
+
+![Objective_6](outputs/objective_6.jpg)
 
 ### 🌟 Objective 7: Most In-Demand Skills Overall
 
-![Objective 7](assets/screenshots/objective7_top_skills.png)
+
+![Objective_7](outputs/objective_7.jpg)
 
 ### 🌟 Objective 8: Top Skills Required for Data Analyst Jobs
 
-![Objective 8](assets/screenshots/objective8_data_analyst_skills.png)
+![Objective_8](outputs/objective_8.jpg)
 
----
-
-## 🚀 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/sql_data_analytics.git
-   cd sql_data_analytics
-   ```
-
-2. Import the `jobs_2023.sql` file into your MySQL database.
-
-3. Open and run SQL queries from the `queries/` folder in VS Code.
-
-4. Export outputs to CSV or Excel using the results pane.
 
 ---
 
