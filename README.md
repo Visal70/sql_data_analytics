@@ -1,18 +1,14 @@
-# 💼 SQL Data Analytics Project: Job Market Insights (2023)
-
-Analyze job market trends using SQL on a dataset of 2023 job postings. This project focuses on uncovering insights about job titles, salaries, remote work, hiring companies, and in-demand skills.
-
----
+# 💼 Data Jobs Market Insights Using SQL Queries
 
 ## 📌 Project Description
 
-This project uses SQL to explore and analyze job market data from 2023. The dataset includes information about job titles, company names, locations, salaries, and required skills. Using SQL queries, we uncover patterns such as top-paying roles, in-demand skills, and remote vs onsite work trends.
+Analyze job market trends using SQL on a dataset of 2023 data job postings. This project focuses on uncovering insights about data job titles, salaries, remote work, hiring companies, and in-demand data skills.
 
 ---
 
 ## 🗃️ Dataset
 
-* **Source**: Kaggle (`jobs_2023.sqlite`)
+* **Source**:`jobs_2023.sqlite`
 * **Format Used**: Converted to MySQL `.sql`
 * **Tables**:
 
@@ -94,28 +90,7 @@ Detailed SQL queries were written for each objective to uncover insights such as
 
 ---
 
-## 📈 Project Outputs
 
-All SQL query results were exported from MySQL via VS Code and saved as CSV files. These outputs were then imported into **Microsoft Excel**, where charts and graphs were created to visualize insights.
-
-The charts were captured as screenshots and added to this README. You can find raw CSV files and Excel charts in the `/outputs` folder of this repository.
-
-All outputs were exported from MySQL via VS Code and saved in CSV/Excel format. Screenshots and files are available in the `outputs/` folder. These outputs support the insights above and can be visualized in BI tools like Power BI or Tableau.
-
----
-
-## 📝 Conclusion
-
-This project successfully extracted valuable insights from job market data using SQL. The visual outputs revealed:
-
-* **Top job titles** in demand (e.g., Data Analyst, Data Scientist)
-* The **distribution of remote vs onsite roles**, which is crucial for modern job preferences
-* **Salary differences** across job titles, companies, and countries
-* The most **sought-after skills** in the industry (e.g., SQL, Python, Excel)
-
-These findings provide a strong foundation for job seekers, recruiters, and analysts to understand current market needs and opportunities.
-
----
 
 
 
